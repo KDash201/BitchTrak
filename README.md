@@ -29,7 +29,7 @@ Nodemon
 Website
 Github Repository: https://github.com/RauchDavis13/Dog_Search.git
 
-Heroku deployed website: https://radiant-inlet-12395.herokuapp.com/
+Heroku deployed website: https://breedtrak.herokuapp.com/
 
 Screen Shots
 Home Page User Needs To Login ![Homepage]image
